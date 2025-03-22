@@ -32,7 +32,8 @@ body {
 
 .bio-container {
 	text-align: center;
-	animation: fadeInUp 0.3s ease;
+	animation: fadeInUp 0.5s ease;
+	perspective: 1000px;
 }
 
 .profile-card {
